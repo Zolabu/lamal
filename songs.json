@@ -2,7 +2,7 @@
   {
     "title": "Topa hoih hi", 
     "language": "tedim",
-    "other_referecne":["ZBC 123","GALHIAM 55"],
+    "other_reference":["ZBC 123","GALHIAM 55"],
     "author": "penglam", 
     "key": "D",
     "songtext":[
@@ -13,6 +13,23 @@
       {
           "type": "chorus",
           "songtext":"Aw nuam sing"
+        } 
+       
+    ]
+  },{
+    "title": "Nang bang omlo hi", 
+    "language": "tedim",
+    "other_reference":["ZBC 234","GALHIAM 98"],
+    "author": "Thangpi", 
+    "key": "D",
+    "songtext":[
+        {
+          "type": "verse",
+          "songtext":"Nang na hoih hi"
+        } ,
+      {
+          "type": "chorus",
+          "songtext":"Nang na lianhi"
         } 
        
     ]
