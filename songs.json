@@ -6,13 +6,15 @@
     "author": "penglam", 
     "key": "D",
     "songtext":[
-      {
-        "text":
         {
           "type": "verse",
           "songtext":"Topa hoih hi"
+        } ,
+      {
+          "type": "chorus",
+          "songtext":"Aw nuam sing"
         } 
-      } 
+       
     ]
   }
 ]
