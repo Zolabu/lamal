@@ -33,6 +33,24 @@
         } 
        
     ]
+  },
+  {
+    "title": "A ki pat cil", 
+    "language": "tedim",
+    "other_reference":["ZBC 2","GALHIAM 9"],
+    "author": "Cingnpi", 
+    "key": "F",
+    "songtext":[
+        {
+          "type": "chorus",
+          "songtext":"Hallelujah"
+        } ,
+      {
+          "type": "verse",
+          "songtext":"Aw nuam sing"
+        } 
+       
+    ]
   }
 ]
 }
